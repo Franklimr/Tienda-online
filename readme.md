@@ -1,10 +1,9 @@
-\# TechStore - Tienda de Componentes de PC
-
+\# Tienda online
 
 
 \## Descripción
 
-TechStore es una tienda online de componentes de hardware para PC. Permite a los usuarios ver productos desde una API, agregarlos al carrito y simular una compra.
+Tienda online de productos varios. Permite a los usuarios ver productos desde una API, agregarlos al carrito y simular una compra.
 
 
 
